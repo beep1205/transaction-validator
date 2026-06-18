@@ -175,10 +175,10 @@ fastcsv
     invalidRows,
 
     cleanedFile:
-        "http://localhost:5000/outputs/cleaned_transactions.csv",
+        "https://transaction-validator-z2lg.onrender.com/outputs/cleaned_transactions.csv",
 
     errorFile:
-        "http://localhost:5000/outputs/validation_report.csv",
+        "https://transaction-validator-z2lg.onrender.com/outputs/validation_report.csv",
 
     totalChunks
 });
