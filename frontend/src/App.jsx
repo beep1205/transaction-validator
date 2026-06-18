@@ -21,7 +21,7 @@ const [errorFile, setErrorFile] = useState("");
     try {
 
       const response = await axios.post(
-        "http://localhost:5000/upload",
+        "https://transaction-validator-z2lg.onrender.com/upload",
         formData
       );
 
