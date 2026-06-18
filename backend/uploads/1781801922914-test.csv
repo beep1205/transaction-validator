@@ -1,0 +1,5 @@
+order_id,phone,country,payment_mode,date
+1001,9876543210,India,UPI,12-06-2025
+1002,12345678,Singapore,Credit Card,15-06-2025
+1003,12345,India,Cash,16-06-2025
+1004,12345678,Singapore,Bitcoin,17-06-2025

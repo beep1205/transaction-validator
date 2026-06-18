@@ -1,0 +1,4 @@
+order_id,phone,country,payment_mode,date
+1001,12345,India,UPI,12-06-2025
+1002,12345678,Singapore,Bitcoin,2025-06-15
+1003,9876543210,India,Cash,2025/06/18
